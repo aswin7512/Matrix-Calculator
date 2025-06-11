@@ -33,11 +33,11 @@ python3 main.py
 
 # Project Demo
 ## Screenshots
-<img width="200" alt="screenshot1" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-41-26.png">
+<img width="893" height="1029" alt="screenshot1" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-41-26.png">
 
-<img width="200" alt="screenshot2" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-44-13.png">
+<img width="893" height="1029" alt="screenshot2" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-44-13.png">
 
-<img width="200" alt="screenshot3" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-45-44.png">
+<img width="1080" height="1920" alt="screenshot3" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-45-44.png">
 
-<img width="200" alt="screenshot4" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-46-21.png">
+<img width="893" height="1029" alt="screenshot4" src="Calculator/Screenshots/Screenshot From 2025-06-11 20-46-21.png">
 
